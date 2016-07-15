@@ -1,6 +1,6 @@
 # periodic-analysis--yeast-cell-cycle
 Summary:
-Web scraper that pulls analyses of periodicity of yeast cell expression levels throughout cell cycle: used to reorder scrambled time step data based on periodicity of possible datapoint permutations.
+Web scraper that pulls analyses of periodicity of yeast cell expression levels throughout cell cycle: used to reorder scrambled time step data based on periodicity of possible datapoint permutations. Developed for a bioinformatics project.
 
 ---
 
